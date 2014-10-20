@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/joserobleda/jsweb/issues"
   },
-  "homepage": "https://github.com/joserobleda/jsweb"
+  "homepage": "https://github.com/joserobleda/jsweb",
+  "dependencies": {
+    "express": "^4.9.8"
+  }
 }
